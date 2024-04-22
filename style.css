@@ -1,0 +1,25 @@
+.hero {
+  background-color: black;
+  background-image: url(asset/pexels-hillaryfox-1595391.png);
+  background-attachment: local;
+  background-size: cover;
+  backdrop-filter: blue;
+  height: 557px;
+}
+
+.nav-link.active {
+  font-weight: 700;
+}
+
+h3 {
+  font-family: "Russo One", sans-serif;
+  font-size: 55px;
+  font-weight: 600;
+}
+
+.daftar {
+  background-color: rgb(35, 131, 59);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
